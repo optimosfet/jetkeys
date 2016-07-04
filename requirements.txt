@@ -1,2 +1,2 @@
 flask
-rsa
+rsa==3.3
